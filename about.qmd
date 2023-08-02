@@ -1,16 +1,16 @@
 ---
-title: "Thomas Rose"
+title: "Hannah Fink"
 about:
   id: template-area
   template: jolla
-  image: profile.png
+  image: 
   links:
     - icon: twitter
       text: twitter
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/Steineklopferha
 ---
 
 ## Tasks for this page
@@ -23,20 +23,16 @@ about:
 
 :::{#template-area}
 
-Here goes the information to be included in the template. 
+Hallöchen, ich mag Steine, vorallem wenn sie glitzern. 
+
 
 :::
 
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Am Satz 8  
-60437 Frankfurt  
-Germany  
-
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Hannah Fink
+Am wilden Stein 13
 
 ## Privacy
 

@@ -3,6 +3,7 @@ title: "Hannah Fink"
 about:
   id: template-area
   template: jolla
+  image: profil.png
   links:
     - icon: twitter
       text: twitter

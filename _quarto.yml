@@ -2,10 +2,10 @@ project:
   type: website
     
 website:
-  site-url: https://archaeothommy.github.io/
-  repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
+  site-url: https://Steineklopferha.github.io/
+  repo-url: https://github.com/Steineklopferha/Steineklopferha.github.io/
   favicon: favicon.png
-  title: "Thomas Rose"
+  title: "Hannah Fink"
   navbar:
     left:
       - text: "My research"

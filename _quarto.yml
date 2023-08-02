@@ -4,7 +4,7 @@ project:
 website:
   site-url: https://Steineklopferha.github.io/
   repo-url: https://github.com/Steineklopferha/Steineklopferha.github.io/
-  favicon: favicon.png
+  favicon: profile.png
   title: "Hannah Fink"
   navbar:
     left:
